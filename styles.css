@@ -1,0 +1,58 @@
+/* add your CSS here */
+#content {
+    width: 400px;
+    margin: auto;
+    margin-top: 200px;
+}
+
+.backdrop{
+	width: 360px;
+	margin: 10px;
+	padding: 10px;
+	text-align: center;
+	display: inline-block;
+}
+
+.shadow{
+	width: 320px;
+	box-shadow: 5px 5px 5px #c0c0c2;
+	padding: 10px;
+	text-align: center;
+	display: inline-block;
+}
+
+.textstyle{
+	width: 280px;
+	padding: 10px;
+	margin-bottom: 5px;
+	margin-top: 10px;
+	text-align: left;
+	display: inline-block;
+}
+
+.animalname{
+	font-size: 24px;
+	text-align: left;
+	padding-left: 10px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+.borderline{
+	border: 1px solid lightgray;
+
+}
+.slant{
+	font-style: italic;
+	text-align: left;
+	margin: 5px;
+}
+
+.boldlabel{
+	font-weight: bold;
+}
+
+.nodots{
+	list-style: none;
+	padding-left: 5px;
+}
